@@ -28,7 +28,7 @@ global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚅𝚒𝚜
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = 'king-nima-gpt-bot'
-global.SESSION_ID = 'elisa_md@;;;wQEk3RYB#B2dLRYzjsCfwiywPUTUQhRl1rgCZHd-ZsiktziSCeAg'
+global.SESSION_ID = 'elisa_md@;;;hZ12kAZb#qRL6OmoRkjRG5xC6EqZhpYv6saZu6iLtow3yRgxQPu8'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
